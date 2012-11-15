@@ -11,4 +11,6 @@ gitの練習用リポジトリ
             git checkout new_branch
             )
 
+Hi!
+
 こんにちは！
