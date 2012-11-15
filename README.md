@@ -10,3 +10,5 @@ gitの練習用リポジトリ
             git branch new_branch base_commit
             git checkout new_branch
             )
+
+こんにちは！
