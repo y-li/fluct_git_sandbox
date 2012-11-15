@@ -3,6 +3,7 @@ fluct_git_sandbox
 
 gitの練習用リポジトリ
 
+
 # branch作成
 
             git checkout -b new_branch base_commit
@@ -10,3 +11,6 @@ gitの練習用リポジトリ
             git branch new_branch base_commit
             git checkout new_branch
             )
+=======
+test
+
